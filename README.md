@@ -20,7 +20,7 @@ You can try the live demo here: [Live Demo](https://roosahoo.github.io/calculato
   <img src="calculator2.png" alt="Calculator 2" width="200">
 </div>
 
-### Us
+### Usage
 
 Use the buttons on the calculator interface to input numbers and operations.
 
