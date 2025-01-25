@@ -1,4 +1,4 @@
-# Simple Calculator // HTML, CSS & JavaSript
+# Simple Calculator // HTML, CSS & JSript
 
 This is a simple calculator application built using HTML, CSS, and JavaScript. It provides basic calculations such as addition, subtraction, multiplication, and division.
 
